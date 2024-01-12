@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="is_non_junction" attr.type="boolean" />
+  <graph edgedefault="undirected">
+    <node id="985513985">
+      <data key="d0">True</data>
+    </node>
+    <node id="21463112">
+      <data key="d0">True</data>
+    </node>
+    <node id="402374808">
+      <data key="d0">True</data>
+    </node>
+    <node id="1832255701">
+      <data key="d0">True</data>
+    </node>
+    <node id="2281411682">
+      <data key="d0">True</data>
+    </node>
+    <node id="2185757573">
+      <data key="d0">True</data>
+    </node>
+    <node id="1449746811">
+      <data key="d0">True</data>
+    </node>
+    <node id="36133508">
+      <data key="d0">True</data>
+    </node>
+    <node id="1449725800">
+      <data key="d0">True</data>
+    </node>
+    <node id="5951316431">
+      <data key="d0">True</data>
+    </node>
+    <node id="5852192476">
+      <data key="d0">True</data>
+    </node>
+    <node id="29557177">
+      <data key="d0">True</data>
+    </node>
+    <node id="29557196">
+      <data key="d0">True</data>
+    </node>
+    <node id="504799741">
+      <data key="d0">True</data>
+    </node>
+    <node id="401910567">
+      <data key="d0">True</data>
+    </node>
+    <node id="2152039809">
+      <data key="d0">True</data>
+    </node>
+    <node id="9246582617">
+      <data key="d0">True</data>
+    </node>
+    <node id="4218200629">
+      <data key="d0">True</data>
+    </node>
+    <node id="2281955971">
+      <data key="d0">True</data>
+    </node>
+    <node id="21463252">
+      <data key="d0">True</data>
+    </node>
+    <node id="313745806">
+      <data key="d0">True</data>
+    </node>
+    <node id="313582723">
+      <data key="d0">True</data>
+    </node>
+    <node id="7716430603">
+      <data key="d0">True</data>
+    </node>
+    <node id="10915840507">
+      <data key="d0">True</data>
+    </node>
+    <node id="2883478320">
+      <data key="d0">True</data>
+    </node>
+    <node id="9329509008">
+      <data key="d0">True</data>
+    </node>
+    <node id="271892509">
+      <data key="d0">True</data>
+    </node>
+    <node id="280977494">
+      <data key="d0">True</data>
+    </node>
+    <node id="9312784871">
+      <data key="d0">True</data>
+    </node>
+    <node id="292169108">
+      <data key="d0">True</data>
+    </node>
+    <node id="1589578920">
+      <data key="d0">True</data>
+    </node>
+    <node id="1276708285">
+      <data key="d0">True</data>
+    </node>
+    <node id="313750085">
+      <data key="d0">True</data>
+    </node>
+    <node id="35229011">
+      <data key="d0">True</data>
+    </node>
+    <node id="1883466234">
+      <data key="d0">True</data>
+    </node>
+    <node id="1582704437">
+      <data key="d0">True</data>
+    </node>
+    <node id="7120103742">
+      <data key="d0">True</data>
+    </node>
+    <node id="424405448">
+      <data key="d0">True</data>
+    </node>
+    <node id="1152760667">
+      <data key="d0">True</data>
+    </node>
+    <node id="3500673874">
+      <data key="d0">True</data>
+    </node>
+    <node id="441595322">
+      <data key="d0">True</data>
+    </node>
+    <node id="341467831">
+      <data key="d0">True</data>
+    </node>
+    <node id="10975513917">
+      <data key="d0">True</data>
+    </node>
+    <node id="1449914744">
+      <data key="d0">True</data>
+    </node>
+    <node id="4208466666">
+      <data key="d0">True</data>
+    </node>
+    <node id="879653599">
+      <data key="d0">True</data>
+    </node>
+    <node id="342484965">
+      <data key="d0">True</data>
+    </node>
+    <node id="1152802936">
+      <data key="d0">True</data>
+    </node>
+    <node id="255725341">
+      <data key="d0">True</data>
+    </node>
+    <edge source="985513985" target="2185757573" />
+    <edge source="985513985" target="1582704437" />
+    <edge source="21463112" target="4218200629" />
+    <edge source="21463112" target="29557177" />
+    <edge source="402374808" target="341467831" />
+    <edge source="1832255701" target="2281411682" />
+    <edge source="1832255701" target="3500673874" />
+    <edge source="1832255701" target="21463252" />
+    <edge source="2281411682" target="10915840507" />
+    <edge source="2185757573" target="9312784871" />
+    <edge source="2185757573" target="341467831" />
+    <edge source="1449746811" target="36133508" />
+    <edge source="1449746811" target="1449725800" />
+    <edge source="1449746811" target="1449914744" />
+    <edge source="36133508" target="1449914744" />
+    <edge source="1449725800" target="2152039809" />
+    <edge source="5951316431" target="5852192476" />
+    <edge source="5951316431" target="1883466234" />
+    <edge source="5951316431" target="4208466666" />
+    <edge source="5852192476" target="401910567" />
+    <edge source="29557177" target="29557196" />
+    <edge source="29557177" target="271892509" />
+    <edge source="29557196" target="280977494" />
+    <edge source="504799741" target="401910567" />
+    <edge source="504799741" target="9312784871" />
+    <edge source="2152039809" target="9246582617" />
+    <edge source="9246582617" target="1152802936" />
+    <edge source="4218200629" target="2281955971" />
+    <edge source="2281955971" target="21463252" />
+    <edge source="21463252" target="3500673874" />
+    <edge source="313745806" target="313582723" />
+    <edge source="313745806" target="441595322" />
+    <edge source="313582723" target="9329509008" />
+    <edge source="7716430603" target="10915840507" />
+    <edge source="7716430603" target="1152760667" />
+    <edge source="7716430603" target="1276708285" />
+    <edge source="2883478320" target="271892509" />
+    <edge source="2883478320" target="879653599" />
+    <edge source="2883478320" target="35229011" />
+    <edge source="2883478320" target="292169108" />
+    <edge source="2883478320" target="255725341" />
+    <edge source="271892509" target="879653599" />
+    <edge source="271892509" target="35229011" />
+    <edge source="271892509" target="292169108" />
+    <edge source="271892509" target="255725341" />
+    <edge source="280977494" target="35229011" />
+    <edge source="280977494" target="10975513917" />
+    <edge source="280977494" target="1449914744" />
+    <edge source="9312784871" target="341467831" />
+    <edge source="292169108" target="1589578920" />
+    <edge source="292169108" target="35229011" />
+    <edge source="292169108" target="879653599" />
+    <edge source="292169108" target="255725341" />
+    <edge source="1589578920" target="313750085" />
+    <edge source="1276708285" target="1152760667" />
+    <edge source="313750085" target="441595322" />
+    <edge source="35229011" target="879653599" />
+    <edge source="35229011" target="255725341" />
+    <edge source="1883466234" target="342484965" />
+    <edge source="1883466234" target="4208466666" />
+    <edge source="1582704437" target="7120103742" />
+    <edge source="7120103742" target="10975513917" />
+    <edge source="424405448" target="4208466666" />
+    <edge source="1152760667" target="342484965" />
+    <edge source="10975513917" target="1449914744" />
+    <edge source="879653599" target="255725341" />
+  </graph>
+</graphml>
