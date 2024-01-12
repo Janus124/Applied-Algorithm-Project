@@ -1,1 +1,3 @@
 # Applied-Algorithm-Project
+
+The Applied Algorithms Project M2 (2023-2024) responds to the European Parliament's mandate to install electric car charging stations on motorways every 60km by 2026. The initiative includes problem modeling, algorithm implementation (e.g., brute force), and exploring extensions to optimize the placement of charging stations. Utilizing OpenStreetMap data, a graph of potential service stations connected by highways is generated, and algorithms like Floyd-Warshall and clustering are applied for computation. Subsequently, graph algorithms, including the DS algorithm, are employed to derive solutions.
