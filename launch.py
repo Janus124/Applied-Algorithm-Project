@@ -20,7 +20,7 @@ def main():
     parser.add_argument('-s', '--solver', choices=['KDOM', 'BRUTE', 'BENCH'], help='Select the -s followed by: KDOM, BRUTE, or BENCH')
 
     # Add the optional graph argument
-    parser.add_argument('-g', '--graph', help='Specify the .dot graph file (or choose france, aquitaine or gironde)')
+    parser.add_argument('-g', '--graph', help='Specify the .dot graph file (or choose location = france, aquitaine or gironde in the code)')
 
     # Add the k-value argument specific to -KDOM command
     parser.add_argument('-k', '--kvalue', type=int, default=1, help='Value of k for k-dominating set (used with -KDOM)')
